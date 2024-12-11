@@ -1,2 +1,2 @@
 # PruebaPBI
-prueba de conxión con power bi
+prueba de conexión con power bi
